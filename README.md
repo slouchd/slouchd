@@ -1,4 +1,4 @@
-<img align=left src="https://raw.githubusercontent.com/slouchd/slouchd/main/slouch-glider.gif" width="350px" height="400px" />
+<img align=left src="https://raw.githubusercontent.com/slouchd/slouchd/main/slouch-glider.gif" width="25%" height="25%" />
 
  :pizza: Average pizza scoffing engineer
  
