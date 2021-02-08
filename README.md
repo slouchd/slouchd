@@ -6,18 +6,8 @@
  
  :floppy_disk: Always living in the past
  
- :mage: Looking for cool projects (k8s/k3s related)
- 
- :question: Need I say anymore
+ :guitar: Concentration mix: https://youtu.be/WuImKDatKxk
 
- ```
- ____________   ____________   ____________   ____________
-|    )    v|   |     o   v|   |     (   v|   |         v|
-|        .X|   |        .X|   |        .X|   |        .X|
-|/\     .X#|   |/\     .X#|   |/\     .X#|   |/\     .X#|
-| ^`\^/\XX#|   | ^`\^/\XX#|   | ^`\^/\XX#|   | ^`\^/\XX#|
-|` ^ `\X##M|   |` ^ `\X##M|   |` ^ `\X##M|   |` ^ `\X##M|
-|--.^XX##MM|   |--.^XX##MM|   |--.^XX##MM|   |--.^XX##MM|
-+----------+   +----------+   +----------+   +----------+
- Crescent 1      Full Moon     Crescent 2      New Moon
- ```
+ :mage: Looking for cool projects (k8s/k3s related)
+
+ :question: Need I say anymore
